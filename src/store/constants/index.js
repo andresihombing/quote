@@ -1,0 +1,6 @@
+export const ActionTypes = {
+  GET_QUOTE: 'GET_QUOTE',
+  SET_QUOTE: 'SET_QUOTE',
+  ADD_FAVORITE: 'ADD_FAVORITE',
+  ADD_MY_QUOTE: 'ADD_MY_QUOTE'
+}
